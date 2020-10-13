@@ -1,0 +1,47 @@
+.button1, .button2, .button3, .button0 {
+   
+    display: inline-block;
+    margin: 0px;
+    border: solid; 
+    border-color: black;
+    padding: 10px;
+    text-justify: auto;
+    color: blueviolet;
+    background-color: black;    
+    
+}
+
+.body {
+    background-image: url "(https://images.app.goo.gl/DFkQPdM8W6fpFzAe8;")
+}
+
+
+.button11 {
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center; 
+    margin: 100px;
+  
+}
+
+
+.button1:hover, .button2:hover, .button3:hover, .background0:hover{
+
+color: black;
+background-color: blueviolet;
+}
+
+img {
+   
+    border: auto;
+    border: solid;
+    border-color: black;
+}
+
+.background {
+
+    background-size: ;
+
+}
